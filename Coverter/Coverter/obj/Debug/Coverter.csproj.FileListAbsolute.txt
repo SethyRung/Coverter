@@ -1,0 +1,17 @@
+C:\Users\ASUS\Documents\C#\Coverter\Coverter\bin\Debug\Coverter.exe
+C:\Users\ASUS\Documents\C#\Coverter\Coverter\bin\Debug\Coverter.pdb
+C:\Users\ASUS\Documents\C#\Coverter\Coverter\obj\Debug\Coverter.Properties.Resources.resources
+C:\Users\ASUS\Documents\C#\Coverter\Coverter\obj\Debug\Coverter.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\C#\Coverter\Coverter\obj\Debug\Coverter.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\C#\Coverter\Coverter\obj\Debug\Coverter.exe
+C:\Users\ASUS\Documents\C#\Coverter\Coverter\obj\Debug\Coverter.pdb
+C:\Users\ASUS\Documents\C#\Coverter\Coverter\obj\Debug\Coverter.Convert.resources
+C:\Users\ASUS\Documents\Code\C#\Coverter\Coverter\bin\Debug\Coverter.exe
+C:\Users\ASUS\Documents\Code\C#\Coverter\Coverter\bin\Debug\Coverter.pdb
+C:\Users\ASUS\Documents\Code\C#\Coverter\Coverter\obj\Debug\Coverter.csproj.AssemblyReference.cache
+C:\Users\ASUS\Documents\Code\C#\Coverter\Coverter\obj\Debug\Coverter.Convert.resources
+C:\Users\ASUS\Documents\Code\C#\Coverter\Coverter\obj\Debug\Coverter.Properties.Resources.resources
+C:\Users\ASUS\Documents\Code\C#\Coverter\Coverter\obj\Debug\Coverter.csproj.GenerateResource.cache
+C:\Users\ASUS\Documents\Code\C#\Coverter\Coverter\obj\Debug\Coverter.csproj.CoreCompileInputs.cache
+C:\Users\ASUS\Documents\Code\C#\Coverter\Coverter\obj\Debug\Coverter.exe
+C:\Users\ASUS\Documents\Code\C#\Coverter\Coverter\obj\Debug\Coverter.pdb
